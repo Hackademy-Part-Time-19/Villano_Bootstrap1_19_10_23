@@ -1,0 +1,41 @@
+header{
+    color: white;
+}
+#nav{
+  color: white;
+  position: relative;
+  background-color: black;
+}
+
+#icona_ex{
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#Search{
+color: white;
+}
+
+.btn_crsl{
+    background: none;
+    border: none;
+
+}
+a{
+    border-style: none;
+    color: white;
+    border: none;
+    cursor: pointer;
+    background: none;
+
+}
+.img_btn_crsl{
+    background-color: brown; border-radius: 30px; height: 15px;
+     width: 15px;
+}
+.img_car{
+    z-index: 0;
+}
+.testo_car{
+    z-index: 1;
+}
